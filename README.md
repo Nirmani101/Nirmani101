@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmani101&label=Profile%20views&color=0e75b6&style=flat" alt="nirmani101" /> </p>
 
-- 🔭 I’m currently working on **Test**
+- 🔭 I’m I'm now looking for internship
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
